@@ -1,1 +1,15 @@
-paddlepaddle
+cmake 
+wget
+libatlas-base-dev 
+libopenblas-dev 
+libblas-dev
+liblapack-dev 
+patchelf 
+gfortran
+Cython
+setuptools
+six 
+requests 
+wheel 
+pyyaml
+protobuf
