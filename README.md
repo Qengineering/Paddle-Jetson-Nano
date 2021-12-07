@@ -26,3 +26,8 @@ Please find your **linux-aarch64** installation wheel here. The **cpXX** number 
 
 Please notice, this is the full Paddle package, not the Paddle Lite version for small devices and mobile phones.<br/>
 For this guide of Paddle Lite see [Install Paddle Lite](https://qengineering.eu/install-paddle-on-jetson-nano.html) <br/>
+
+------------
+
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
+
