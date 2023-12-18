@@ -1,5 +1,5 @@
 # Paddle 2.5.2 for the Jetson Orin Nano
-Paddle installation wheel `paddlepaddle_gpu-2.5.2-cp38-cp38-linux_aarch64.whl` for the [Jetson Orin Nano]()<br/>
+Paddle installation wheel `paddlepaddle_gpu-2.5.2-cp38-cp38-linux_aarch64.whl` for the [Jetson Orin Nano](https://ln5.sync.com/dl/20ba294c0/m3qmundt-ci43kjpi-rj6paptx-kqdytcjn)<br/>
 With 231 MB it is too large for GitHub.<br>
 
 ----
