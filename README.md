@@ -1,4 +1,10 @@
-# Paddle 2.0.0 for the Jetson Nano
+# Paddle 2.5.2 for the Jetson Orin Nano
+Paddle installation wheel `paddlepaddle_gpu-2.5.2-cp38-cp38-linux_aarch64.whl` for the [Jetson Orin Nano]()<br/>
+With 231 MB it is too large for GitHub.<br>
+
+----
+
+# Paddle 2.0.0 for the regular Jetson Nano
 Paddle installation files for the Jetson Nano<br/>
 For the installation guide see [Install Paddle 2.0.0](https://qengineering.eu/install-paddle-on-jetson-nano.html) <br/>
 ## Dependency
